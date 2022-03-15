@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: #BFFFF0;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 5rem;
+    padding:3% 7%;
+    color: #FFBBBB;
+}
+h2{
+    text-align: center;
+    font-family: "Dancing Script";
+    color: #495371;
+}
+p{
+    font-family: "Bowlby One";
+    color: #495371;
+    font-size: 1.3rem;
+}
+
+.row{
+    text-align: center;
+    position: relative;
+}
+img{
+    width: 50%;
+    height: 80%;
+}
+.row .col img{
+    position: relative;
+    bottom: 20%;
+}
+.myButton{
+    display: block;
+    margin: 0 auto;
+    padding: 3% 7%;
+}
+
+#last{
+    font-size: 0.7rem;
+}
